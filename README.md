@@ -11,3 +11,13 @@ Lenguajes aplicados:
 * HTML
 * CSS
 * JavaScript
+
+***
+### Practice repository
+
+Website created for an Argentine rock-pop band.
+
+Applied languages:
+* HTML
+* CSS
+* JavaScript
